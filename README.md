@@ -12,5 +12,6 @@ This repository contains a collection of advanced Scala projects and resources t
 2. Explore the examples and tutorials provided.
 
 ## Future Plans
+- Add .gitignore file for Scala projects
 - Expand the collection of examples
 - Include more detailed tutorials and explanations
